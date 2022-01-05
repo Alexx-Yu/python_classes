@@ -1,12 +1,12 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[1. Описание проекта](https://github.com/Alexx-Yu/python_classes/tree/main/Module%208%20-%20Task%209.1/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Alexx-Yu/python_classes/tree/main/Module%208%20-%20Task%209.1/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Alexx-Yu/python_classes/tree/main/Module%208%20-%20Task%209.1/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Alexx-Yu/python_classes/tree/main/Module%208%20-%20Task%209.1/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Alexx-Yu/python_classes/tree/main/Module%208%20-%20Task%209.1/README.md#Результат)    
+[6. Выводы](https://github.com/Alexx-Yu/python_classes/tree/main/Module%208%20-%20Task%209.1/README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток, ориентируясь на подсказки меньше / больше.
@@ -31,22 +31,22 @@
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Alexx-Yu/python_classes/tree/main/Module%208%20-%20Task%209.1/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Alexx-Yu/python_classes/tree/main/Module%208%20-%20Task%209.1/README.md#Оглавление)
 
 
 ### Результаты:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Alexx-Yu/python_classes/tree/main/Module%208%20-%20Task%209.1/README.md#Оглавление)
 
 
 ### Выводы:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Alexx-Yu/python_classes/tree/main/Module%208%20-%20Task%209.1/README.md#Оглавление)
