@@ -1,19 +1,5 @@
 # [Модуль 9: Изучение Numpy](https://github.com/Alexx-Yu/python_classes)
 
-## Оглавление
-
-[1. Задание 10.7](https://github.com/Alexx-Yu/python_classes/tree/main/Project%200/readme.md#Описание-проекта)
-
-[2. Задание 10.6](https://github.com/Alexx-Yu/python_classes/tree/main/Project%200/readme.md#Основная-задача)
-
-[3. Задание 10.8](https://github.com/Alexx-Yu/python_classes/tree/main/Project%200/readme.md#Краткая-информация-о-данных)
-
-[4. Этапы работы над проектом](https://github.com/Alexx-Yu/python_classes/tree/main/Project%200/readme.md#Этапы-работы-над-проектом)
-
-[5. Результат](https://github.com/Alexx-Yu/python_classes/tree/main/Project%200/readme.md#Результат)
-
-[6. Выводы](https://github.com/Alexx-Yu/python_classes/tree/main/Project%200/readme.md#Выводы)
-
 
 ### Задаие 10.7
 Вы разрабатываете приложение для прослушивания музыки. Конечно же, там будет доступна функция перемешивания плейлиста. Пользователю может настолько понравиться перемешанная версия плейлиста, что он захочет сохранить его копию. Однако вы не хотите хранить в памяти новую версию плейлиста, а просто хотите сохранять тот seed, с которым он был сгенерирован.
