@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <country>Англия</country>
+    <population>56.29</population>
+    <square>133396</square>
+  </row>
+  <row>
+    <country>Канада</country>
+    <population>38.05</population>
+    <square>9984670</square>
+  </row>
+  <row>
+    <country>США</country>
+    <population>322.28</population>
+    <square>9826630</square>
+  </row>
+  <row>
+    <country>Россия</country>
+    <population>146.24</population>
+    <square>17125191</square>
+  </row>
+  <row>
+    <country>Украина</country>
+    <population>45.5</population>
+    <square>603628</square>
+  </row>
+  <row>
+    <country>Беларусь</country>
+    <population>9.5</population>
+    <square>207600</square>
+  </row>
+  <row>
+    <country>Казахстан</country>
+    <population>17.04</population>
+    <square>2724902</square>
+  </row>
+</data>
