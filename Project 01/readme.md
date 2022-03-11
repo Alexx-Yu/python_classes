@@ -1,4 +1,4 @@
-# [Проект: Анализ вакансий на hh.ru"](https://github.com/Alexx-Yu/python_classes/tree/main/Project%2001)
+# [Проект: Анализ вакансий на hh.ru](https://github.com/Alexx-Yu/python_classes/tree/main/Project%2001)
 
 ## Оглавление
 
@@ -36,5 +36,5 @@
 ### Краткая информация о данных
 ....
 
-:arrow_up:[к оглавлению](https://github.com/Alexx-Yu/python_classes/tree/main/Project%200/readme.md#Оглавление)
+:arrow_up:[к оглавлению](#Оглавление)
 
