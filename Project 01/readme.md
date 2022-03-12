@@ -10,9 +10,7 @@
 
 [4. Этапы работы над проектом](#Этапы-работы-над-проектом)
 
-[5. Результат](#Результат)
-
-[6. Выводы](#Выводы)
+[5. Выводы](#Выводы)
 
 
 ### Описание проекта
@@ -27,23 +25,21 @@
 
 
 
-**Требования, исходные данные и финальные ноутбук и датафрейм**
+### Требования, исходные данные и финальные ноутбук и датафрейм
 - [Требования к системе краткие](https://github.com/Alexx-Yu/python_classes/blob/main/Project%2001/Data/requirements.txt)
 - [Требования к системе полные](https://github.com/Alexx-Yu/python_classes/blob/main/Project%2001/Data/environment.yaml)
 - [Ноутбук с решением кейса по проекту](https://github.com/Alexx-Yu/python_classes/blob/main/Project%2001/Project%201.ipynb)
 - [Исходные данные](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
 - [Финальные данные](https://github.com/Alexx-Yu/python_classes/blob/main/Project%2001/Data/hh_final.csv)
 
-**Метрика качества**
+### Этапы работы над проектом
 Результаты оцениваются по среднему количеству попыток при 1000 повторений
 
-**Что практикуем**
-- Учимся писать хороший код на Python
-- Учимся работать с IDE
-- Учимся работать с GitHub
-
-### Краткая информация о данных
+### Выводы
 ....
+
+
+
 
 :arrow_up:[к оглавлению](#Оглавление)
 
