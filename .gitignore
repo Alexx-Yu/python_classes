@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 Project 01/Data/dst-3.0_16_1_hh_database.csv
 Project 01/hh.csv
+Project 03/Data/hotels.csv
