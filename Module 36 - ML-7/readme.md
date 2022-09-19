@@ -21,5 +21,5 @@
 - [Исходные данные](https://github.com/Alexx-Yu/python_classes/blob/main/Module%2036%20-%20ML-7/Data/_train_sem09.csv)
 - [Файл Readme (этот файл)](https://github.com/Alexx-Yu/python_classes/blob/main/Module%2036%20-%20ML-7/readme.md)
 
-:arrow_up:[к оглавлению](#Оглавление)
+:arrow_up:[к началу страницы](#Оглавление)
 
