@@ -2,17 +2,9 @@
 
 ## Оглавление
 
-[1. Цель проекта](#Описание-проекта)
+[Цель проекта](#Описание-проекта)
 
-[2. Проблематика](#Проблематика)
-
-[3. Задачи](#Задачи)
-
-[4. Требования, исходные и финальные данные, ноутбук](#Требования,-исходные-и-финальные-данные,-ноутбук)
-
-[5. Этапы работы над проектом](#Этапы-работы-над-проектом)
-
-[6. Результаты](#Результаты)
+[Требования, исходные и финальные данные, ноутбук](#Требования,-исходные-и-финальные-данные,-ноутбук)
 
 
 ### Описание проекта
@@ -22,12 +14,12 @@
 
 Необходимо обучить две модели: логистическую регрессию и случайный лес. Далее нужно сделать подбор гиперпараметров с помощью базовых и продвинутых методов оптимизации. Важно использовать все четыре метода (GridSeachCV, RandomizedSearchCV, Hyperopt, Optuna) хотя бы по разу, максимальное количество итераций не должно превышать 50.
 
-### Требования, исходные и финальные данные, ноутбук
-- [Требования к системе краткие](https://github.com/Alexx-Yu/python_classes/blob/main/Project%2001/Data/requirements.txt)
-- [Требования к системе полные](https://github.com/Alexx-Yu/python_classes/blob/main/Project%2001/Data/environment.yaml)
-- [Ноутбук с решением кейса по проекту](https://github.com/Alexx-Yu/python_classes/blob/main/Project%2001/Project%201.ipynb)
-- [Исходные данные](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
-- [Финальные данные](https://github.com/Alexx-Yu/python_classes/blob/main/Project%2001/Data/hh_final.csv)
+### Требования, исходные данные, ноутбук
+- [Требования к системе краткие](https://github.com/Alexx-Yu/python_classes/blob/main/Module%2036%20-%20ML-7/requirements.txt)
+- [Требования к системе полные](https://github.com/Alexx-Yu/python_classes/blob/main/Module%2036%20-%20ML-7/environment.yaml)
+- [Ноутбук с решением кейса по проекту](https://github.com/Alexx-Yu/python_classes/blob/main/Module%2036%20-%20ML-7/Practice%20ML-7.ipynb)
+- [Исходные данные](https://github.com/Alexx-Yu/python_classes/blob/main/Module%2036%20-%20ML-7/Data/_train_sem09.csv)
+- [Файл Readme (этот файл)](https://github.com/Alexx-Yu/python_classes/blob/main/Module%2036%20-%20ML-7/readme.md)
 
 :arrow_up:[к оглавлению](#Оглавление)
 
